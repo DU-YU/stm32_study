@@ -1,0 +1,3 @@
+Dependencies for Project 'led', Target 'led': (DO NOT MODIFY !)
+F (.\main.c)(0x60801CA6)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-I F:\开课吧。智能物联LINUXc++\项目\led\RTE-I F:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0-I F:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="514" -DSTM32F10X_MD-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+F (.\startup_stm32f10x_md.s)(0x5FF6F997)(--cpu Cortex-M3 -g --apcs=interwork -I F:\开课吧。智能物联LINUXc++\项目\led\RTE-I F:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0-I F:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 514" --pd "STM32F10X_MD SETA 1"--list .\listings\startup_stm32f10x_md.lst --xref -o .\objects\startup_stm32f10x_md.o --depend .\objects\startup_stm32f10x_md.d)
